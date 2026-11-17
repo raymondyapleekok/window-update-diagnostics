@@ -1,0 +1,33 @@
+# Case artifacts and evidence — never commit (contain machine names, paths, identifiers, dumps)
+startup-baseline*.json
+change-ledger*
+attempt-ledger*
+evidence/
+bundles/
+SetupDiag/
+Panther/
+Rollback/
+*.evtx
+*.etl
+*.dmp
+*.mdmp
+*.blf
+*.zip
+*.7z
+*.tar
+*.gz
+WindowsUpdate.log
+setupact.log
+setuperr.log
+setupapi.dev.log
+MigLog.xml
+bluebox.log
+SetupDiagResults*
+
+# Local scratch and OS junk
+*.tmp
+*.bak
+*.orig
+Thumbs.db
+desktop.ini
+.DS_Store
