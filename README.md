@@ -1,5 +1,7 @@
 # Windows Update Diagnostic & Repair — Kilo Skill
 
+Troubleshoot and Resolve Windows Update Failures.
+
 Version 2.1.0 — see [CHANGELOG.md](CHANGELOG.md).
 
 Safety-first diagnosis of Windows 10/11 Windows Update, servicing, feature-upgrade, and rollback
